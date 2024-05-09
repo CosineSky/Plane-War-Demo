@@ -1,0 +1,2 @@
+Press w/a/s/d to move your plane
+Press space to set off superbooms
